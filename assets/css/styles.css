@@ -210,7 +210,6 @@ span {
     grid-column: 3/4;
   }
 
-  /* TODO: Refactor this code later */
   .white-bg {
     grid-column: 1/2;
     grid-row: 2/3;
