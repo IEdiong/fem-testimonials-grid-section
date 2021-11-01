@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/testimonials-grid-section](https://www.frontendmentor.io/solutions/testimonials-grid-section-using-css-grid-with-three-layouts-U76VGHUR7)
 - Live Site URL: [https://iediong.github.io/fem-testimonials-grid-section/](https://iediong.github.io/fem-testimonials-grid-section/)
 
 ## My process
