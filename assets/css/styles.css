@@ -77,7 +77,7 @@ span {
 }
 
 .moderate-violet-bg {
-  background: url(/images/bg-pattern-quotation.svg) var(--moderate-violet) no-repeat;
+  background: url(./images/bg-pattern-quotation.svg) var(--moderate-violet) no-repeat;
   background-position: right 9% top 0;
   color: var(--light-grayish-blue);
 }
