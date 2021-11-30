@@ -126,6 +126,7 @@ span {
   border: 2px solid hsl(265, 89%, 68%);
 }
 
+/* TODO: Use SASS, BEM & make the .profile-name a link (<a> tag) */
 .profile-name {
   line-height: 0.8;
 }
